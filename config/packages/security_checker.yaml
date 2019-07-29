@@ -1,0 +1,8 @@
+git remote add origin https://github.com/SamuelCondat/the_spacebar.gitservices:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+
+    SensioLabs\Security\SecurityChecker: ~
+
+    SensioLabs\Security\Command\SecurityCheckerCommand: ~
