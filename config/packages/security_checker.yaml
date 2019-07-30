@@ -1,4 +1,4 @@
-git remote add origin https://github.com/SamuelCondat/the_spacebar.gitservices:
+services:
     _defaults:
         autowire: true
         autoconfigure: true
